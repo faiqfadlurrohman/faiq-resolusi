@@ -2,6 +2,9 @@ RENCANA BELAJAR FAIQ
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
+    ^ React
 - Struktur Data Dasar
 - PHP Framework
+  ^ Laravel
 - CSS Framework
