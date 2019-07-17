@@ -1,0 +1,7 @@
+FAIQ RESOLUSI
+- Belajar pemrogramman (setidaknya 2hari 1x)
+- Belajar membuat project sederhana
+- Belajar membuat Sistem Informasi Mangement
+- Membuat snippets project
+- Membuat template project
+- Membuat framework project
