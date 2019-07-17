@@ -1,0 +1,4 @@
+RENCANA BELAJAR FAIQ
+- Javascript
+- PHP Framework
+- CSS Framework
