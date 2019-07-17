@@ -1,0 +1,6 @@
+RENCANA BELAJAR FAIQ
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP Framework
+- CSS Framework
