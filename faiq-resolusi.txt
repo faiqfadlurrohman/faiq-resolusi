@@ -5,4 +5,4 @@ FAIQ RESOLUSI
 - Membuat snippets project
 - Membuat template project
 - Membuat framework project
-- Membuat project besar
+- Membuat Youtube Channel
