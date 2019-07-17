@@ -2,6 +2,8 @@ RENCANA BELAJAR FAIQ
 - Javascript
   * ES6
   * Framework Javascript
-- Struktur Data Dasar
+    ^ Angular
+    ^ React
 - PHP Framework
+  ^ Laravel
 - CSS Framework
