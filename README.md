@@ -1,2 +1,2 @@
 # faiq-resolusi
-Repository untuk menyimpan rencana AppDev kedepannya
+Repository untuk menyimpan rencana saya ketika belajar membangun aplikasi kedepannya
